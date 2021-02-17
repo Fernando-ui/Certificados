@@ -1,0 +1,49 @@
+body{
+    background: linear-gradient(#000046, #1cb5e0);
+    
+}
+
+.Imagen{
+    align-content: center;
+}
+
+.Image__item{
+    
+    max-width: 90%;
+    max-height: 60%;
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 15%;
+    
+}
+.title{
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5vmin;
+}
+
+.caja__enlaces{
+display: block;
+/* margin-left: auto;
+margin-right: auto; */
+}
+[class^="caja__item"]{
+    display: inline;
+    margin: 10px 5px;
+    
+}
+
+h1{
+    margin: 0;
+}
+.caja__item_1{
+    margin-left: 3em;
+}
+a{
+    color: white;
+}
+.enlaces__item{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 4vmin;
+}
