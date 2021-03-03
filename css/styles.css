@@ -10,6 +10,8 @@ body{
     display: block;
     text-align: center;
     font-weight: 400;
+    font-size:6vmin;
+
 }
 .main-title{
     height: auto;
@@ -37,13 +39,12 @@ body{
 }
 
 
-.python-box{
+.img-box{
     display: flex;
     justify-content: center;
     margin-top: 5px;
-
 }
-.python-img{
+.lenguaje-img{
     padding: 5vmin;
     height: 80%;
     width: 80%;
